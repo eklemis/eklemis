@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eklemis
-- 👀 I’m interested in programming with Javascript and Python, and also doing CSS and HTML
+- 👀 I’m interested in programming with Javascript and Python, and Rust, also doing CSS and HTML
 - 🌱 I’m currently learning ReactJS and Next JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can email me at eklemis.content@gmail.com
