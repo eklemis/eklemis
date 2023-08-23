@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eklemis
 - 👀 I’m interested in programming with Javascript and Python, and Rust, also doing CSS and HTML
-- 🌱 I’m actively using ReactJS and Next JS in my projects
-- 🌱 I'm start learning and using svelte, sveltekit and tailwind as well
+- 🌱 I’m actively using Sveltekit, Tailwindcss, Rust (actix web and tonic gRPC), and also Next JS in my projects
+- 🌱 I'm currently learning on gRPC with tonic Rust. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can email me at eklemis.content@gmail.com
